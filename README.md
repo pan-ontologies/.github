@@ -1,1 +1,1 @@
-# Photon and Neutron Ontologies
+# PaN-Ontologies managament repository
