@@ -1,1 +1,1 @@
-# PaN-Ontologies managament repository
+# PaN-Ontologies management repository
